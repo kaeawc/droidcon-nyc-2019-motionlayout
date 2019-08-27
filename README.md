@@ -2,9 +2,9 @@
 
 Talk given by Jason Pearson on August 27th, 2019
 
-[Original Keynote Presentation](TBD)
+[Speaker Deck]() To be uploaded
 
-[Speaker Deck](TBD)
+[YouTube Link]() To be uploaded
 
 ## Demos I created for this talk
 

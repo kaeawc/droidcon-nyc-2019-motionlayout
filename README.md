@@ -2,9 +2,9 @@
 
 Talk given by Jason Pearson on August 27th, 2019
 
-[Speaker Deck]() To be uploaded
+[Speaker Deck](https://github.com/kaeawc/droidcon-nyc-2019-motionlayout) To be uploaded
 
-[YouTube Link]() To be uploaded
+[YouTube Link](https://github.com/kaeawc/droidcon-nyc-2019-motionlayout) To be uploaded
 
 ## Demos I created for this talk
 
